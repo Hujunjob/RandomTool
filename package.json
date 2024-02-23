@@ -1,0 +1,25 @@
+{
+  "name": "randomtool",
+  "version": "1.0.0",
+  "description": "random tool for npm",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hujunjob/RandomTool.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "lucky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hujunjob/RandomTool/issues"
+  },
+  "homepage": "https://github.com/Hujunjob/RandomTool#readme",
+  "devDependencies": {
+    "myeasyethers": "^0.0.1"
+  }
+}
