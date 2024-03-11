@@ -1,6 +1,6 @@
 {
-  "name": "randomtool",
-  "version": "1.0.0",
+  "name": "easyrandomtool",
+  "version": "1.0.5",
   "description": "random tool for npm",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Hujunjob/RandomTool.git"
+    "url": "https://github.com/Hujunjob/RandomTool.git"
   },
   "keywords": [
     "random"
@@ -19,7 +19,8 @@
     "url": "https://github.com/Hujunjob/RandomTool/issues"
   },
   "homepage": "https://github.com/Hujunjob/RandomTool#readme",
-  "devDependencies": {
-    "myeasyethers": "^0.0.1"
+  "dependencies": {
+    "ethers": "^6.11.1",
+    "myeasyethers": "^0.0.2"
   }
 }
